@@ -1,4 +1,8 @@
 One
 two
-ready?
-Go!
+<<<<<<< HEAD
+
+
+=======
+go
+>>>>>>> 28ef2f5e1c06ea0516c1a3879ed2968e4eccebc6
